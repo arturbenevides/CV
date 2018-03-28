@@ -1,0 +1,618 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdftex 2017.9.3)  25 MAR 2018 02:45
+entering extended mode
+**"C:/Users/Artur Benevides/Downloads/CV-master (1)/CV-master/my_cv.cls"
+("C:/Users/Artur Benevides/Downloads/CV-master (1)/CV-master/my_cv.cls"
+! Undefined control sequence.
+l.1 \NeedsTeXFormat
+                   {LaTeX2e}
+? 
+! Undefined control sequence.
+l.2 \ProvidesClass
+                  {my_cv}[6/6/2013 custom CV class]
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.2 \ProvidesClass{my_
+                      cv}[6/6/2013 custom CV class]
+? 
+! Extra }, or forgotten $.
+l.2 \ProvidesClass{my_cv}
+                         [6/6/2013 custom CV class]
+? 
+! Undefined control sequence.
+l.3 \LoadClass
+              {article}
+? 
+! Undefined control sequence.
+l.4 \RequirePackage
+                   {titlesec}
+? 
+! Undefined control sequence.
+l.5 \usepackage
+               {xcolor}
+? 
+! Undefined control sequence.
+l.6 \usepackage
+               {tabularx}
+? 
+! Undefined control sequence.
+l.7 \usepackage
+               [top=4.5cm, bottom=0cm, left=5cm, right=2cm]{geometry}
+? 
+! Undefined control sequence.
+l.9 \definecolor
+                {maincolor}{RGB}{0,128,128}
+? 
+! Undefined control sequence.
+l.10 \definecolor
+                 {workplace}{HTML}{0395DE}
+? 
+! Undefined control sequence.
+l.11 \definecolor
+                 {sidesections}{HTML}{0395DE}
+? 
+! Undefined control sequence.
+l.12 \definecolor
+                 {maingray}{HTML}{B9B9B9}
+? 
+! Undefined control sequence.
+l.13 \definecolor
+                 {bodycolor}{RGB}{26,26,26}
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.14 
+     
+? 
+
+Overfull \hbox (10.57213pt too wide) in paragraph at lines 1--14
+[]\tenrm LaTeX2e my$[]\teni v\tenrm [6\teni =\tenrm 6\teni =\tenrm 2013\teni cu
+stomCVclass\tenrm ][][][][][\teni top \tenrm = 4\teni :\tenrm 5\teni cm; bottom
+ \tenrm = 0\teni cm; left \tenrm =|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm L
+.\tenrm a
+.\tenrm T
+.\kern-0.83334
+.etc.
+
+
+Overfull \hbox (226.06157pt too wide) in paragraph at lines 1--14
+\tenrm 5\teni cm; right \tenrm = 2\teni cm\tenrm ][][][][][][][][][][][][][][][
+][]$ |
+
+\hbox(7.5+2.5)x469.75499
+.\tenrm 5
+.\teni c
+.\teni m
+.\teni ;
+.\glue(\thinmuskip) 1.66663
+.etc.
+
+! Undefined control sequence.
+l.15 \RequirePackage
+                    [quiet]{fontspec}
+? 
+! Undefined control sequence.
+l.16 \RequirePackage
+                    [math-style=TeX]{unicode-math}
+? 
+! Undefined control sequence.
+l.17 \newfontfamily
+                   \bodyfont
+? 
+! Undefined control sequence.
+l.17 \newfontfamily\bodyfont
+                            
+? 
+! Undefined control sequence.
+l.22 \newfontfamily
+                   \namefont
+? 
+! Undefined control sequence.
+l.22 \newfontfamily\namefont
+                            
+? 
+! Undefined control sequence.
+l.27 \newfontfamily
+                   \thinfont[]{Lato-Hairline.ttf}
+? 
+! Undefined control sequence.
+l.27 \newfontfamily\thinfont
+                            []{Lato-Hairline.ttf}
+? 
+! Undefined control sequence.
+l.28 \newfontfamily
+                   \headingfont[]{texgyreheros-bold.otf}
+? 
+! Undefined control sequence.
+l.28 \newfontfamily\headingfont
+                               []{texgyreheros-bold.otf}
+? 
+! Undefined control sequence.
+l.29 \defaultfontfeatures
+                         {Mapping=tex-text}
+? 
+! Undefined control sequence.
+l.30 \setmainfont
+                 
+? 
+! Undefined control sequence.
+l.37 \setmathfont
+                 {texgyreheros-regular.otf}
+? 
+! Undefined control sequence.
+l.38 \usepackage
+                {xunicode}
+? 
+! Undefined control sequence.
+l.39 \usepackage
+                {tikz}
+? 
+! Undefined control sequence.
+l.40 \usetikzlibrary
+                    {calc}
+? 
+! Undefined control sequence.
+l.41 \usepackage
+                {tikzpagenodes}
+? 
+! Undefined control sequence.
+l.42 \usepackage
+                {hyperref}
+? 
+! Undefined control sequence.
+l.43 \usetikzlibrary
+                    {positioning}
+? 
+! Undefined control sequence.
+l.44 \usepackage
+                {bbding}
+? 
+! Undefined control sequence.
+l.45 \usepackage
+                { wasysym }
+? 
+! Undefined control sequence.
+l.46 \usepackage
+                {fontawesome}
+? 
+! Undefined control sequence.
+l.47 \usepackage
+                {tgadventor}
+? 
+! Undefined control sequence.
+l.48 \usepackage
+                {titlesec}
+? 
+! Undefined control sequence.
+l.49 \usepackage
+                {multicol}
+? 
+
+Overfull \hbox (90.1629pt too wide) in paragraph at lines 15--50
+[]\tenrm [quiet]fontspec [math-style=TeX]unicode-math [Color=bodycolor,BoldFont
+=texgyreheros-bold.otf, ItalicFont=texgyreheros-|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm [
+.\tenrm q
+.\tenrm u
+.\tenrm i
+.etc.
+
+
+Overfull \hbox (35.82951pt too wide) in paragraph at lines 15--50
+\tenrm italic.otf, BoldItalicFont=texgyreheros-bolditalic.otf] texgyreheros-reg
+ular.otf [Color=white,BoldFont=texgyreheros-|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm i
+.\tenrm t
+.\tenrm a
+.\tenrm l
+.\tenrm i
+.etc.
+
+
+Overfull \hbox (13.66283pt too wide) in paragraph at lines 15--50
+\tenrm bold.otf, ItalicFont=texgyreheros-italic.otf, BoldItalicFont=texgyrehero
+s-bolditalic.otf] texgyreheros-regular.otf|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm b
+.\kern0.27779
+.\tenrm o
+.\tenrm l
+.\tenrm d
+.etc.
+
+
+Overfull \hbox (63.91293pt too wide) in paragraph at lines 15--50
+\tenrm []Lato-Hairline.ttf []texgyreheros-bold.otf Mapping=tex-text [Mapping=te
+x-text, Color=textcolor, BoldFont=texgyreheros-|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm [
+.\tenrm ]
+.\tenrm L
+.\tenrm a
+.\tenrm t
+.etc.
+
+
+Overfull \hbox (15.10725pt too wide) in paragraph at lines 15--50
+\tenrm bold.otf, ItalicFont=texgyreheros-italic.otf, BoldItalicFont=texgyrehero
+s-bolditalic.otf ] texgyreheros-regular.otf|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm b
+.\kern0.27779
+.\tenrm o
+.\tenrm l
+.\tenrm d
+.etc.
+
+! Undefined control sequence.
+l.53 \titleformat
+                 {\section}         % Customise the \section command
+? 
+! Undefined control sequence.
+l.53 \titleformat{\section
+                          }         % Customise the \section command
+? 
+! Undefined control sequence.
+l.54   {\headingfont
+                    \Large\scshape\raggedright\color{sidesections}} % Make t...
+
+? 
+! Undefined control sequence.
+l.54   {\headingfont\Large
+                          \scshape\raggedright\color{sidesections}} % Make t...
+
+? 
+! Undefined control sequence.
+l.54   {\headingfont\Large\scshape
+                                  \raggedright\color{sidesections}} % Make t...
+
+? 
+! Undefined control sequence.
+l.54 ...eadingfont\Large\scshape\raggedright\color
+                                                  {sidesections}} % Make the...
+
+? 
+! Undefined control sequence.
+l.59 \titlespacing
+                  *{\section}{0pt}{1pt}{2pt}
+? 
+! Undefined control sequence.
+l.59 \titlespacing*{\section
+                            }{0pt}{1pt}{2pt}
+? 
+! Undefined control sequence.
+l.60   \titleformat
+                   {\subsection}
+? 
+! Undefined control sequence.
+l.60   \titleformat{\subsection
+                               }
+? 
+! Undefined control sequence.
+l.61   {\large
+              \scshape\raggedright}
+? 
+! Undefined control sequence.
+l.61   {\large\scshape
+                      \raggedright}
+? 
+! Undefined control sequence.
+l.65   \newcommand
+                  {\datedsection}[2]{ %
+? 
+! Undefined control sequence.
+l.65   \newcommand{\datedsection
+                                }[2]{ %
+? 
+! Undefined control sequence.
+l.66   \section
+               [#1]{ #1 \hfill #2}%
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.66   \section[#
+                 1]{ #1 \hfill #2}%
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.66   \section[#1]{ #
+                      1 \hfill #2}%
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.66   \section[#1]{ #1 \hfill #
+                                2}%
+? 
+! Undefined control sequence.
+l.68 \newcommand
+                {\datedsubsection}[2]{ %
+? 
+! Undefined control sequence.
+l.68 \newcommand{\datedsubsection
+                                 }[2]{ %
+? 
+! Undefined control sequence.
+l.69   \subsection
+                  [#1]{#1 \hfill #2}%
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.69   \subsection[#
+                    1]{#1 \hfill #2}%
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.69   \subsection[#1]{#
+                        1 \hfill #2}%
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.69   \subsection[#1]{#1 \hfill #
+                                  2}%
+? 
+! Undefined control sequence.
+l.73 \newcommand
+                {\pageheader}[10]{\fontfamily{cmss}\selectfont %
+? 
+! Undefined control sequence.
+l.73 \newcommand{\pageheader
+                            }[10]{\fontfamily{cmss}\selectfont %
+? 
+! Undefined control sequence.
+l.73 \newcommand{\pageheader}[10]{\fontfamily
+                                             {cmss}\selectfont %
+? 
+! Undefined control sequence.
+l.73 ...geheader}[10]{\fontfamily{cmss}\selectfont
+                                                   %
+? 
+! Undefined control sequence.
+l.75    \begin
+              {tikzpicture}[remember picture,overlay]
+? 
+! Undefined control sequence.
+l.76 		\node
+             (header) [shape=rectangle, fill=maincolor, minimum height=5cm, ...
+
+? 
+! Undefined control sequence.
+l.76 ...imum height=5cm, minimum width=\paperwidth
+                                                  , anchor=north west] at (c...
+
+? 
+
+Overfull \hbox (35.80157pt too wide) in paragraph at lines 73--77
+[]\tenrm [10]cmsstikzpicture[remember pic-ture,overlay] (header) [shape=rectang
+le, fill=maincolor, min-i-mum height=5cm,|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm [
+.\tenrm 1
+.\tenrm 0
+.\tenrm ]
+.etc.
+
+! Undefined control sequence.
+l.79 	\node
+           (text) [anchor=south, xshift=1.5cm] (name) at (header) {%
+? 
+! Undefined control sequence.
+l.80       \fontsize
+                    {40pt}{62pt}\color{white}\selectfont%
+? 
+! Undefined control sequence.
+l.80       \fontsize{40pt}{62pt}\color
+                                      {white}\selectfont%
+? 
+! Undefined control sequence.
+l.80 ...ntsize{40pt}{62pt}\color{white}\selectfont
+                                                  %
+? 
+! Undefined control sequence.
+l.81       {\namefont
+                      #1}{\headingfont #2}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.81       {\namefont #
+                       1}{\headingfont #2}
+? 
+! Undefined control sequence.
+l.81       {\namefont #1}{\headingfont
+                                       #2}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.81       {\namefont #1}{\headingfont #
+                                        2}
+? 
+! Undefined control sequence.
+l.84     \node
+              (text) [anchor=north] (contact) at (name.south) {%
+? 
+! Undefined control sequence.
+l.85       \fontsize
+                    {10pt}{16pt}\color{white}\selectfont%
+? 
+! Undefined control sequence.
+l.85       \fontsize{10pt}{16pt}\color
+                                      {white}\selectfont%
+? 
+! Undefined control sequence.
+l.85 ...ntsize{10pt}{16pt}\color{white}\selectfont
+                                                  %
+? 
+! Undefined control sequence.
+l.86       {\headingfont
+                         \faEnvelope~ #4 ~|~ \headingfont \phone~ #3 ~|~\hea...
+
+? 
+! Undefined control sequence.
+l.86       {\headingfont \faEnvelope
+                                    ~ #4 ~|~ \headingfont \phone~ #3 ~|~\hea...
+
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.86       {\headingfont \faEnvelope~ #
+                                       4 ~|~ \headingfont \phone~ #3 ~|~\hea...
+
+? 
+! Undefined control sequence.
+l.86 ...adingfont \faEnvelope~ #4 ~|~ \headingfont
+                                                   \phone~ #3 ~|~\headingfon...
+
+? 
+! Undefined control sequence.
+l.86 ...nt \faEnvelope~ #4 ~|~ \headingfont \phone
+                                                  ~ #3 ~|~\headingfont ~\faG...
+
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.86 ...\faEnvelope~ #4 ~|~ \headingfont \phone~ #
+                                                  3 ~|~\headingfont ~\faGith...
+
+? 
+! Undefined control sequence.
+l.86 ...|~ \headingfont \phone~ #3 ~|~\headingfont
+                                                   ~\faGithub ~ #5 ~|~\headi...
+
+? 
+! Undefined control sequence.
+l.86 ...font \phone~ #3 ~|~\headingfont ~\faGithub
+                                                   ~ #5 ~|~\headingfont ~\fa...
+
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.86 ... \phone~ #3 ~|~\headingfont ~\faGithub ~ #
+                                                  5 ~|~\headingfont ~\faLink...
+
+? 
+! Undefined control sequence.
+l.86 ...eadingfont ~\faGithub ~ #5 ~|~\headingfont
+                                                   ~\faLinkedinSquare ~ #6}
+? 
+! Undefined control sequence.
+l.86 ...ub ~ #5 ~|~\headingfont ~\faLinkedinSquare
+                                                   ~ #6}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.86 ... #5 ~|~\headingfont ~\faLinkedinSquare ~ #
+                                                  6}
+? 
+! Undefined control sequence.
+l.88     \node
+              (text) [anchor=north] (addrbirth) at (contact.south) {%
+? 
+! Undefined control sequence.
+l.89       \fontsize
+                    {10pt}{16pt}\color{white}\selectfont%
+? 
+! Undefined control sequence.
+l.89       \fontsize{10pt}{16pt}\color
+                                      {white}\selectfont%
+? 
+! Undefined control sequence.
+l.89 ...ntsize{10pt}{16pt}\color{white}\selectfont
+                                                  %
+? 
+! Undefined control sequence.
+l.90       {\faHome
+                    ~\headingfont #7 ~|~ \faBirthdayCake \headingfont ~ #8}
+? 
+! Undefined control sequence.
+l.90       {\faHome ~\headingfont
+                                  #7 ~|~ \faBirthdayCake \headingfont ~ #8}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.90       {\faHome ~\headingfont #
+                                   7 ~|~ \faBirthdayCake \headingfont ~ #8}
+? 
+! Undefined control sequence.
+l.90 ...aHome ~\headingfont #7 ~|~ \faBirthdayCake
+                                                   \headingfont ~ #8}
+? 
+! Undefined control sequence.
+l.90 ...ngfont #7 ~|~ \faBirthdayCake \headingfont
+                                                   ~ #8}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.90 ...nt #7 ~|~ \faBirthdayCake \headingfont ~ #
+                                                  8}
+? 
+! Undefined control sequence.
+l.92     \node
+              (text) [anchor=north] (curl) at (contact.south) {%
+? 
+! Undefined control sequence.
+l.93       \fontsize
+                    {10pt}{16pt}\color{white}\selectfont%
+? 
+! Undefined control sequence.
+l.93       \fontsize{10pt}{16pt}\color
+                                      {white}\selectfont%
+? 
+! Undefined control sequence.
+l.93 ...ntsize{10pt}{16pt}\color{white}\selectfont
+                                                  %
+? 
+! Undefined control sequence.
+l.94       {\faSkype
+                     ~\headingfont #9 ~|~ \faMapMarker \headingfont ~ #10}
+? 
+! Undefined control sequence.
+l.94       {\faSkype ~\headingfont
+                                   #9 ~|~ \faMapMarker \headingfont ~ #10}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.94       {\faSkype ~\headingfont #
+                                    9 ~|~ \faMapMarker \headingfont ~ #10}
+? 
+! Undefined control sequence.
+l.94 ...\faSkype ~\headingfont #9 ~|~ \faMapMarker
+                                                   \headingfont ~ #10}
+? 
+! Undefined control sequence.
+l.94 ...adingfont #9 ~|~ \faMapMarker \headingfont
+                                                   ~ #10}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.94 ...gfont #9 ~|~ \faMapMarker \headingfont ~ #
+                                                  10}
+? 
+! Undefined control sequence.
+l.98 	\node
+           [xshift=2.5cm, yshift=-2.2cm] (mypic) at (header.west)
+? 
+! Undefined control sequence.
+l.99     {\includegraphics
+                          [width=.22\textwidth]{artur.png}};
+? 
+! Undefined control sequence.
+l.99     {\includegraphics[width=.22\textwidth
+                                              ]{artur.png}};
+? 
+[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] )
+(\end occurred inside a group at level 2)
+
+### simple group (level 2) entered at line 73 ({)
+### simple group (level 1) entered at line 2 ({)
+### bottom level<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmm
+i10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on my_cv.pdf (1 page, 46630 bytes).
+PDF statistics:
+ 18 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
