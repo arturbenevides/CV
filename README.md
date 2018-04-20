@@ -6,4 +6,4 @@ CV built using Tex, Xelatex and Font awesome package.
 
 > Last Version: mar/2018
 
-<img src='blob:null/55fede2e-a86f-49ab-839c-3ab72523bd8f' width=600> 
+<img src='https://github.com/arturbenevides/cv/blob/master/canvas.png' width=600> 
