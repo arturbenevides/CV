@@ -4,9 +4,9 @@ CV built using Tex, Xelatex and Font awesome package.
 
 ### Releases
 
-- [x] * First version: feb/2018
+- [x]  First version: feb/2018
 
-- [x] >Last Version: mar/2018
+- [x]  Last Version: mar/2018
 
 
 #
