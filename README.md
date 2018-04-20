@@ -2,8 +2,10 @@
 
 CV built using Tex, Xelatex and Font awesome package.
 
-> First version: fev/2018
+### Releases
 
-> Last Version: mar/2018
+- [x] > First version: fev/2018
+
+- [x] > Last Version: mar/2018
 
 <img src='https://github.com/arturbenevides/cv/blob/master/canvas.png' width=1000> 
