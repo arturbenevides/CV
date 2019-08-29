@@ -11,4 +11,4 @@ CV built using Tex, Xelatex and Font awesome package.
 
 #
 
-<img src='https://github.com/arturbenevides/cv/blob/master/canvas.png' width=1000> 
+<img src='https://github.com/arturbenevides/cv/blob/master/cv_artur_benevides_PhD.pdf' width=1000> 
